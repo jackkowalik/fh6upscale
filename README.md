@@ -1,4 +1,4 @@
-# fh6up
+# fh6upscale
 
 Upscales Forza Horizon 6 car interior textures on your own PC install. Leather grain, plastics, fabrics, perforated panels, speaker grilles and more get twice the resolution on each side by default (4x the pixels), or 4x per side with `--scale 4`. The game loads the result through its `mediapc` override folder, so the original game files are never modified.
 
